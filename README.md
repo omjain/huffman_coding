@@ -1,4 +1,4 @@
-File encoding and decoding using huffman code algorithm.
+#File encoding and decoding using huffman code algorithm.
 
 Enter the location for any file and it is Encoded!
 
